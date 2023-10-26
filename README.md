@@ -39,3 +39,25 @@
 
 **5. table representations**
 
+## Future scope
+
+SCOPE 
+
+**1. Is there any chance for a email notification? if present % goes below 80 or 75 - HR**
+
+	sol : - publish the report to cloud
+
+
+**2. dynamic file uploading solution?**
+
+	sol:- a common drive/google sheet / sharepoint folder 
+	so no need of updation every time
+
+
+**3. dashboard available to people/employees only charts?**
+
+	sol:- visual level privilege , low level/option level security 
+
+publish the report on cloud to manager level and create another copy for employee filtered manner
+
+
