@@ -25,3 +25,17 @@
 
 	note : this helps to organize sanitation and medical aids in form of campaigns or of any other means.
 
+ 
+ ## Extracted Insights
+
+
+**1. wfh interest %**
+
+**2. release schedules based on absence %**
+
+**3. Tile based months - analytics**
+
+**4. % comparision with line chart**
+
+**5. table representations**
+
