@@ -25,6 +25,13 @@
 
 	note : this helps to organize sanitation and medical aids in form of campaigns or of any other means.
 
+
+
+
+
+
+ 
+
  
  ## Extracted Insights
 
